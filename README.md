@@ -8,7 +8,7 @@ I'm Metin, I'm working on Web application development. I am sharing my projects 
 <img src="https://komarev.com/ghpvc/?username=MetinKeles1&color=green" alt="MetinKeles1 :: Profile Stats"></a>
 <a href="mailto:metinkeles677@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-metinkeles677@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/metin-kele%C5%9F-26938a230" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Metin Keleş-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/metinn_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-metinn_k-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/metinn_k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-metinn_k-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
