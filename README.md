@@ -18,7 +18,7 @@ I'm Metin, I'm working on Web application development. I am sharing my projects 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=metinkeles1&show_icons=true&theme=tokyonight" width="450" height="180"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinkeles1&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metinkeles1&layout=compact&theme=tokyonight" height="180">
   
 </p>
 
