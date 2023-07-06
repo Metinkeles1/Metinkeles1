@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Project<br>👯 I’m looking to collaborate on advanced project<br>🌱 I’m currently learning Angular And .Net Core<br>💬 Ask me about Angular & .Net core
+🔭 I’m currently working on Web Project<br>👯 I’m looking to collaborate on advanced project<br>🌱 I’m currently learning React(Next.js)<br>💬 Ask me about Angular & .Net core
 
 
 ## 🌐 Socials:
